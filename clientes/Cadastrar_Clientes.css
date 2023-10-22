@@ -1,0 +1,17 @@
+.one {
+    width: 99vw;
+    height: 50vh;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}

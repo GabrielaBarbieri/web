@@ -1,0 +1,25 @@
+button {
+    background-color: transparent;
+    border: none;
+}
+
+button:hover>svg {
+
+    color: rgb(238, 9, 9);
+}
+
+#button_2:hover>svg {
+
+    color: rgb(74, 172, 230);
+}
+
+#button_cadastrar {
+    border-radius: 5px;
+    background-color: rgb(132, 213, 228);
+    padding: 8px;
+}
+
+#button_cadastrar:hover>svg {
+
+    color: rgb(0, 0, 0);
+}
